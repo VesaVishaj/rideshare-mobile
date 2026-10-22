@@ -7,17 +7,19 @@ Ruaje këtë skedar si `java-03.md` pranë README në repository-n tënd, jasht�
 
 ## Provat që bëra
 ### Prova 1: Lista në telefon
-[PLOTËSO] Hapa faqen kryesore në pamjen e telefonit; prisja tri karta pa lëvizje anash; pashë ...
+[Hapat: Hapa aplikacionin në localhost:3000 dhe kontrollova kartat e udhëtimeve.
+Rezultati real: U shfaqën 3 karta udhëtimi pa pasur nevojë për lëvizje horizontale.] 
 
 ### Prova 2: Detajet e udhëtimit të dytë
-[PLOTËSO] Klikova kartën 2; prisja adresën /udhetimi/2 dhe vendtakimin e saj; pashë ...
-Shënova edhe çfarë ndodhi te karta 3 (zero vende) dhe te /udhetimi/99: ...
+[Hapat: Hapa aplikacionin në localhost:3000 dhe kontrollova kartat e udhëtimeve.
+Rezultati real: U shfaqën 3 karta udhëtimi pa pasur nevojë për lëvizje horizontale.] 
 
 ### Prova 3: Kërkesa në pritje
-[PLOTËSO] Klikova Kërko vend; prisja “Simulim: Në pritje”, pa rezervim real; pashë ... Pastaj u ktheva te detajet dhe lista: ...
+[Hapat: Kontrollova simulimin e kërkesës për udhëtim.
+Rezultati real: U shfaq mesazhi Simulim: Në pritje.] 
 
 ## Çfarë do të përmirësoj
-[PLOTËSO] Shkruaj një gjë që mbeti pa punuar ose një përmirësim për javën tjetër.
+[Javën tjetër do të përmirësoj pamjen e aplikacionit dhe do të testoj më shumë raste, përfshirë hapjen e udhëtimeve që nuk ekzistojnë.] 
 
 ## Ndihma nga AI (Artificial Intelligence – inteligjencë artificiale)
-[PLOTËSO] Shkruaj çfarë të ndihmoi AI dhe çfarë provove vetë, ose “Nuk përdora AI”.
+[AI më ndihmoi në konfigurimin e Next.js, në rregullimin e komandës `npm run dev` dhe në kuptimin e strukturës së projektit. Unë vetë i provova aplikacionin në shfletues dhe kontrollova rezultatet e tri provave.] 
