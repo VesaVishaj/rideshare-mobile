@@ -3,7 +3,7 @@
 Ruaje këtë skedar si `java-03.md` pranë README në repository-n tënd, jashtë dosjes `aplikacioni/`. Mos shto `.txt` pas emrit. Zëvendëso të gjitha shenjat e plotësimit me atë që ndodhi vërtet. Mjafton një fjali e qartë për çdo provë, por trego çfarë prite dhe çfarë pe.
 
 ## Çfarë ndërtova
-[PLOTËSO] Shkruaj cilat ekrane të RideShare përfundove sot.
+[Sot përfundova ekranin kryesor të RideShare, ku shfaqen 3 karta të udhëtimeve, si dhe ekranin e hollësive të udhëtimit te /udhetimi/2. Gjithashtu, përfshiva simulimin e udhëtimit, i cili shfaq mesazhin "Simulim: Në pritje".] 
 
 ## Provat që bëra
 ### Prova 1: Lista në telefon
