@@ -14,7 +14,10 @@
     "module": "esnext",
     "esModuleInterop": true,
     "moduleResolution": "bundler",
-    "resolveJsonModule": true,
+"paths": {
+  "@/*": ["./src/*"]
+},
+"resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
     "plugins": [
