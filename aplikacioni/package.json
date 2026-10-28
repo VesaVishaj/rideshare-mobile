@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "aplikacioni",
   "version": "1.0.0",
   "scripts": {
@@ -12,7 +13,8 @@
     "@neondatabase/serverless": "^1.2.0",
     "next": "^15.5.28",
     "react": "^19.3.1",
-    "react-dom": "^19.3.1"
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "26.6.5",
